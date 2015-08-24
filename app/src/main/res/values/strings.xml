@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">SearchViewToolbar</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="profile_name">Username</string>
+    <string name="profile_email">email</string>
+    <string name="profile_icon_desc">Photo</string>
+    <string name="menu_item_text">Item</string>
+
+    <string name="search_hint">Search for something...</string>
+    <string name="title_activity_search_results">Search results</string>
+
+    <string-array name="names">
+        <item>Odilia Heston</item>
+        <item>Cassandra Staiger</item>
+        <item>Shiela Vanwingerden</item>
+        <item>Janiece Philbrick</item>
+        <item>Dexter Gillett</item>
+        <item>Merle Maddock</item>
+        <item>Ha Slusser</item>
+        <item>Tyler Salgado</item>
+        <item>Evelia Stamand</item>
+        <item>Juliana Tilly</item>
+        <item>Natacha Gautreaux</item>
+        <item>Salome Flanigan</item>
+        <item>Anitra Segraves</item>
+        <item>Alia Montalto</item>
+        <item>Nada Ivory</item>
+        <item>Sandi Gusler</item>
+        <item>Josie Escovedo</item>
+        <item>Dovie Schilling</item>
+        <item>Zackary Gunnells</item>
+        <item>Jackie Legrand</item>
+        <item>Candelaria Elzey</item>
+        <item>Josiah Dalby</item>
+        <item>Bulah Wenner</item>
+        <item>Sabine Persing</item>
+        <item>Mike Samford</item>
+        <item>Franchesca Heyward</item>
+        <item>Janis Prue</item>
+        <item>Robby House</item>
+        <item>Filiberto Cheshire</item>
+        <item>Mickie Maliszewski</item>
+        <item>Carlota Dones</item>
+        <item>Antonietta Rundell</item>
+        <item>Marivel Niver</item>
+        <item>Alesha Moles</item>
+        <item>Mariella Palka</item>
+        <item>Carson Shaikh</item>
+        <item>Louvenia Pham</item>
+        <item>Renna Withers</item>
+        <item>Allegra Dyess</item>
+        <item>Maragret Alam</item>
+        <item>Beatriz Farfan</item>
+        <item>Leatrice Robnett</item>
+        <item>Kiyoko Kittrell</item>
+        <item>Anibal Ballantyne</item>
+        <item>Mohamed Mckinstry</item>
+        <item>Roselle Reeder</item>
+        <item>Trevor Rehman</item>
+        <item>Marna Mccomas</item>
+        <item>Ilana Rempel</item>
+        <item>Rubin Molton</item>
+    </string-array>
+</resources>
