@@ -3,12 +3,31 @@ Implementation searchView in Toolbar with RecyclerView as result set
 
 For education purposes I give to you example demo how to implement :
 
-  - **infinite RecycleView**
+  - **SearchRecentSuggestionsProvider**
   - **SearchView Widget in Toolbar**
   - **Drawer Menu**
-  
+
 ### Version
 1.0
+
+### Documentation
+
+http://developer.android.com/guide/topics/providers/content-providers.html
+
+http://developer.android.com/guide/topics/search/adding-custom-suggestions.html
+
+http://developer.android.com/guide/topics/search/adding-recent-query-suggestions.html
+
+http://developer.android.com/reference/android/content/SearchRecentSuggestionsProvider.html
+
+http://developer.android.com/guide/topics/search/search-dialog.html
+
+http://developer.android.com/guide/topics/search/searchable-config.html
+
+http://developer.android.com/guide/topics/ui/actionbar.html
+
+http://developer.android.com/training/implementing-navigation/nav-drawer.html
+
 
 ### Installation
 You need Git to download repository, or download ZIP archive
